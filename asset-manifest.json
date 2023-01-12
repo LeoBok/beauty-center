@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/beauty-center/static/css/main.073c9b0a.css",
+    "main.js": "/beauty-center/static/js/main.c9af756d.js",
+    "static/js/787.42f90cbb.chunk.js": "/beauty-center/static/js/787.42f90cbb.chunk.js",
+    "static/media/logo.svg": "/beauty-center/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/beauty-center/index.html",
+    "main.073c9b0a.css.map": "/beauty-center/static/css/main.073c9b0a.css.map",
+    "main.c9af756d.js.map": "/beauty-center/static/js/main.c9af756d.js.map",
+    "787.42f90cbb.chunk.js.map": "/beauty-center/static/js/787.42f90cbb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c9af756d.js"
+  ]
+}
